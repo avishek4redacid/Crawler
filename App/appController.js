@@ -54,7 +54,7 @@ app.controller('appController', ['$scope','$resource', function($scope , $resour
       alert("Enter a valid URL !");
       return false;
     }
-     Ladda.bind('button[type=submit]');
+    
   };
 
   
